@@ -1,4 +1,4 @@
-# cpp-basics
+# C++ Basics
 
 ## Overview
 This repository contains C++ programs and notes covering fundamental concepts, practice questions, and pattern problems. It is organized for easy learning and revision, with code examples for each topic.
