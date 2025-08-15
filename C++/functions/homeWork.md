@@ -1,0 +1,5 @@
+- WAF to chech if a number is prime or not.
+- WAF to print all prime numbers from 2 to n.
+- WAF to print nth Fibonacci.
+- Swap of two numbers.
+- Switch
